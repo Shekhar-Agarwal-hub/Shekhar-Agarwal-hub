@@ -36,6 +36,6 @@ I am an **Electronics & Communication Engineering** student at C.V. Raman Global
 ---
 
 ## 📫 Let's Connect!
-* **LinkedIn:** linkedin.com/in/shekhar-kumar1404
+* **LinkedIn:**  https://www.linkedin.com/in/shekhar-kumar1404/
 * **Email:** ska265254@gmail.com 
 * **Location:** India
